@@ -33,9 +33,16 @@ In the starting CSS document, styles are based on custom classes not in Bootstra
 	color: #602F8D;
 	text-decoration: underline;
 }
-.btn-primary{
+.btn-primary {
     color: #FFFFFF;
     background-color: #602F8D;
+    border-color: #602F8D;
+}
+.panel-primary .panel-heading {
+    border-color: #602F8D;
+    background-color: #602F8D;
+}
+.panel{
     border-color: #602F8D;
 }
 .btn-primary:hover,
