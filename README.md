@@ -1,2 +1,2 @@
-# bs3_lynda
+# Bootstrap 3 Lynda.com
 Bootstrap3 Adding Interactivity to your site [Lynda.com]
